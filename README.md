@@ -1,0 +1,1 @@
+# georeferenced-information-class
