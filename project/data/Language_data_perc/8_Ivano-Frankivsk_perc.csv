@@ -1,0 +1,54 @@
+"Distribution of the population by native language, Ivano-Frankivska"
+"oblast (in % to the total population) by 026 DISTRICTS AND CITIES OF"
+"REGIONAL IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"IVANO-FRANKIVSK (miskrada)"	92.65	6.38
+"BOLEKHIV (miskrada)"	99.14	0.67
+"m. KALUSH"	95.33	3.19
+"m. KOLOMYIA"	93.11	5.00
+"YAREMCHE (miskrada)"	99.17	0.63
+"BOHORODCHANSKYI RAION"	99.63	0.31
+"VERKHOVYNSKYI RAION"	99.64	0.32
+"HALYTSKYI RAION"	99.01	0.86
+"HORODENKIVSKYI RAION"	99.59	0.32
+"DOLYNSKYI RAION"	98.74	0.99
+"KALUSKYI RAION"	99.65	0.30
+"KOLOMYISKYI RAION"	99.54	0.36
+"KOSIVSKYI RAION"	99.47	0.41
+"NADVIRNIANSKYI RAION"	98.78	0.84
+"ROHATYNSKYI RAION"	99.68	0.25
+"ROZHNIATIVSKYI RAION"	99.61	0.33
+"SNIATYNSKYI RAION"	99.47	0.40
+"TLUMATSKYI RAION"	99.67	0.26
+"TYSMENYTSKYI RAION"	99.51	0.37
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

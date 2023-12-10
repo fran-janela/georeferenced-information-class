@@ -1,0 +1,61 @@
+"Distribution of the population by native language, Cherkaska oblast (in"
+"% to the total population) by 071 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"CHERKASY (miskrada)"	79.07	18.67
+"VATUTINE (miskrada)"	91.87	7.79
+"m. KANIV"	88.43	11.24
+"ZOLOTONOSHA (miskrada)"	92.79	6.32
+"SMILA (miskrada)"	89.10	10.13
+"m. UMAN"	93.27	6.38
+"HORODYSHCHENSKYI RAION"	97.56	1.99
+"DRABIVSKYI RAION"	98.01	1.56
+"ZHASHKIVSKYI RAION"	98.11	1.50
+"ZVENYHORODSKYI RAION"	97.64	2.02
+"ZOLOTONISKYI RAION"	96.50	2.96
+"KAMIANSKYI RAION"	96.78	2.97
+"KANIVSKYI RAION"	96.95	2.75
+"KATERYNOPILSKYI RAION"	98.01	1.60
+"KORSUN-SHEVCHENKIVSKYI RAION"	96.57	2.50
+"LYSIANSKYI RAION"	98.29	1.42
+"MANKIVSKYI RAION"	98.12	1.59
+"MONASTYRYSHCHENSKYI RAION"	98.38	1.29
+"SMILIANSKYI RAION"	96.97	2.67
+"TALNIVSKYI RAION"	97.66	1.77
+"UMANSKYI RAION"	97.34	2.18
+"KHRYSTYNIVSKYI RAION"	97.09	2.25
+"CHERKASKYI RAION"	96.84	2.91
+"CHORNOBAIVSKYI RAION"	97.29	2.27
+"CHYHYRYNSKYI RAION"	95.46	3.63
+"SHPOLIANSKYI RAION"	97.74	1.80
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

@@ -1,0 +1,59 @@
+"Distribution of the population by native language, Mykolaivska oblast"
+"(in % to the total population) by 048 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"m. MYKOLAIV"	42.17	56.81
+"m. VOZNESENSK"	86.47	12.50
+"m. OCHAKIV"	70.31	28.49
+"m. PERVOMAISK"	82.76	15.79
+"m. YUZHNOUKRAINSK"	66.52	31.37
+"ARBUZYNSKYI RAION"	88.35	8.90
+"BASHTANSKYI RAION"	91.37	5.51
+"BEREZANSKYI RAION"	88.87	8.27
+"BEREZNEHUVATSKYI RAION"	91.65	6.76
+"BRATSKYI RAION"	86.13	9.97
+"VESELYNIVSKYI RAION"	92.74	5.47
+"VOZNESENSKYI RAION"	89.57	8.22
+"VRADIIVSKYI RAION"	96.00	1.82
+"DOMANIVSKYI RAION"	94.71	2.67
+"YELANETSKYI RAION"	92.93	3.58
+"ZHOVTNEVYI RAION"	80.51	18.08
+"KAZANKIVSKYI RAION"	81.22	17.26
+"KRYVOOZERSKYI RAION"	96.93	1.82
+"MYKOLAIVSKYI RAION"	87.40	11.43
+"NOVOBUZKYI RAION"	94.03	4.42
+"NOVOODESKYI RAION"	92.42	5.93
+"OCHAKIVSKYI RAION"	85.21	12.67
+"PERVOMAISKYI RAION"	93.22	4.76
+"SNIHURIVSKYI RAION"	90.96	7.74
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

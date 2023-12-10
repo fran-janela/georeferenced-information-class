@@ -1,0 +1,68 @@
+"Distribution of the population by native language, Vinnytska oblast (in"
+"% to the total population) by 005 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"m. VINNYTSIA"	84.73	14.36
+"m. ZHMERYNKA"	90.81	8.51
+"MOHYLIV-PODILSKYI (miskrada)"	92.31	7.01
+"KOZIATYN (miskrada)"	94.88	4.76
+"LADYZHYN (miskrada)"	88.35	11.25
+"m. KHMILNYK"	97.12	2.59
+"BARSKYI RAION"	97.40	2.36
+"BERSHADSKYI RAION"	97.17	2.48
+"VINNYTSKYI RAION"	97.57	2.04
+"HAISYNSKYI RAION"	96.28	3.46
+"ZHMERYNSKYI RAION"	97.67	2.06
+"ILLINETSKYI RAION"	98.10	1.35
+"KOZIATYNSKYI RAION"	98.33	1.25
+"KALYNIVSKYI RAION"	97.75	1.97
+"KRYZHOPILSKYI RAION"	98.78	0.92
+"LYPOVETSKYI RAION"	98.78	1.08
+"LITYNSKYI RAION"	98.50	1.35
+"MOHYLIV-PODILSKYI RAION"	98.19	1.55
+"MUROVANOKURYLOVETSKYI RAION"	98.76	1.05
+"NEMYRIVSKYI RAION"	97.52	2.10
+"ORATIVSKYI RAION"	99.10	0.74
+"PISHCHANSKYI RAION"	97.62	1.60
+"POHREBYSHCHENSKYI RAION"	98.79	1.06
+"TEPLYTSKYI RAION"	98.81	0.87
+"TOMASHPILSKYI RAION"	96.57	2.88
+"TROSTIANETSKYI RAION"	98.10	1.67
+"TULCHYNSKYI RAION"	96.87	2.76
+"TYVRIVSKYI RAION"	96.44	3.05
+"KHMILNYTSKYI RAION"	99.11	0.72
+"CHERNIVETSKYI RAION"	99.22	0.64
+"CHECHELNYTSKYI RAION"	98.53	1.17
+"SHARHORODSKYI RAION"	98.92	0.87
+"YAMPILSKYI RAION"	97.56	1.69
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

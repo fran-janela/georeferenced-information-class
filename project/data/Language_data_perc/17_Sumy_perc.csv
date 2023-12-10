@@ -1,0 +1,60 @@
+"Distribution of the population by native language, Sumska oblast (in %"
+"to the total population) by 059 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"SUMY (miskrada)"	77.44	20.21
+"OKHTYRKA (miskrada)"	87.11	9.95
+"HLUKHIV (miskrada)"	83.29	16.40
+"KONOTOP (miskrada)"	86.41	12.96
+"LEBEDYN (miskrada)"	93.30	6.46
+"ROMNY (miskrada)"	93.98	5.67
+"m. SHOSTKA"	60.81	35.74
+"OKHTYRSKYI RAION"	96.22	3.26
+"BILOPILSKYI RAION"	93.83	5.35
+"BURYNSKYI RAION"	96.87	2.53
+"VELYKOPYSARIVSKYI RAION"	72.63	26.98
+"HLUKHIVSKYI RAION"	78.14	21.68
+"KONOTOPSKYI RAION"	97.40	2.18
+"KRASNOPILSKYI RAION"	93.03	6.49
+"KROLEVETSKYI RAION"	95.77	3.81
+"LEBEDYNSKYI RAION"	96.06	3.50
+"LYPOVODOLYNSKYI RAION"	97.73	1.85
+"NEDRYHAILIVSKYI RAION"	97.73	1.87
+"PUTYVLSKYI RAION"	38.68	61.02
+"ROMENSKYI RAION"	97.60	2.02
+"SEREDYNO-BUDSKYI RAION"	20.75	79.11
+"SUMSKYI RAION"	93.82	5.49
+"TROSTIANETSKYI RAION"	86.11	13.27
+"SHOSTKYNSKYI RAION"	86.51	12.93
+"YAMPILSKYI RAION"	82.53	16.89
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

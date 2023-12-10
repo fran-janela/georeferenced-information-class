@@ -1,0 +1,133 @@
+"Distribution of the population of Ukraine`s regions by native language"
+"by Region, Indicated as a native language, Year and Contents"
+
+" "	" "	"2001(05.12)"	" "
+" "	" "	"Population of the region, persons"	"Share in the total population of the region, %"
+"Ukraina"
+" "	"Total"	48240902	100.00
+" "	"Ukrainian"	32577468	67.53
+" "	"Russian"	14273670	29.59
+"Avtonomna Respublika Krym"
+" "	"Total"	2024056	100.00
+" "	"Ukrainian"	202761	10.02
+" "	"Russian"	1549422	76.55
+"Vinnytska oblast"
+" "	"Total"	1763944	100.00
+" "	"Ukrainian"	1672324	94.81
+" "	"Russian"	83531	4.74
+"Volynska oblast"
+" "	"Total"	1057214	100.00
+" "	"Ukrainian"	1028271	97.26
+" "	"Russian"	26499	2.51
+"Dnipropetrovska oblast"
+" "	"Total"	3561224	100.00
+" "	"Ukrainian"	2386087	67.00
+" "	"Russian"	1136537	31.91
+"Donetska oblast"
+" "	"Total"	4825563	100.00
+" "	"Ukrainian"	1163085	24.10
+" "	"Russian"	3615461	74.92
+"Zhytomyrska oblast"
+" "	"Total"	1389293	100.00
+" "	"Ukrainian"	1292386	93.02
+" "	"Russian"	91317	6.57
+"Zakarpatska oblast"
+" "	"Total"	1254614	100.00
+" "	"Ukrainian"	1016268	81.00
+" "	"Russian"	36412	2.90
+"Zaporizka oblast"
+" "	"Total"	1926810	100.00
+" "	"Ukrainian"	967328	50.20
+" "	"Russian"	928616	48.19
+"Ivano-Frankivska oblast"
+" "	"Total"	1406129	100.00
+" "	"Ukrainian"	1375275	97.81
+" "	"Russian"	24984	1.78
+"Kyivska oblast"
+" "	"Total"	1821061	100.00
+" "	"Ukrainian"	1680322	92.27
+" "	"Russian"	130526	7.17
+"Kirovohradska oblast"
+" "	"Total"	1125704	100.00
+" "	"Ukrainian"	1000610	88.89
+" "	"Russian"	112802	10.02
+"Luhanska oblast"
+" "	"Total"	2540191	100.00
+" "	"Ukrainian"	762402	30.01
+" "	"Russian"	1748589	68.84
+"Lvivska oblast"
+" "	"Total"	2605956	100.00
+" "	"Ukrainian"	2484094	95.32
+" "	"Russian"	98286	3.77
+"Mykolaivska oblast"
+" "	"Total"	1262899	100.00
+" "	"Ukrainian"	873898	69.20
+" "	"Russian"	369489	29.26
+"Odeska oblast"
+" "	"Total"	2455666	100.00
+" "	"Ukrainian"	1136571	46.28
+" "	"Russian"	1030090	41.95
+"Poltavska oblast"
+" "	"Total"	1621207	100.00
+" "	"Ukrainian"	1458726	89.98
+" "	"Russian"	153513	9.47
+"Rivnenska oblast"
+" "	"Total"	1171445	100.00
+" "	"Ukrainian"	1136355	97.00
+" "	"Russian"	31965	2.73
+"Sumska oblast"
+" "	"Total"	1296763	100.00
+" "	"Ukrainian"	1080128	83.29
+" "	"Russian"	201050	15.50
+"Ternopilska oblast"
+" "	"Total"	1138500	100.00
+" "	"Ukrainian"	1119574	98.34
+" "	"Russian"	13562	1.19
+"Kharkivska oblast"
+" "	"Total"	2895813	100.00
+" "	"Ukrainian"	1557980	53.80
+" "	"Russian"	1282659	44.29
+"Khersonska oblast"
+" "	"Total"	1172689	100.00
+" "	"Ukrainian"	858336	73.19
+" "	"Russian"	291483	24.86
+"Khmelnytska oblast"
+" "	"Total"	1426649	100.00
+" "	"Ukrainian"	1358720	95.24
+" "	"Russian"	58343	4.09
+"Cherkaska oblast"
+" "	"Total"	1398313	100.00
+" "	"Ukrainian"	1293342	92.49
+" "	"Russian"	93079	6.66
+"Chernivetska oblast"
+" "	"Total"	919028	100.00
+" "	"Ukrainian"	694468	75.57
+" "	"Russian"	48434	5.27
+"Chernihivska oblast"
+" "	"Total"	1236065	100.00
+" "	"Ukrainian"	1100674	89.05
+" "	"Russian"	126830	10.26
+"m. Kyiv"
+" "	"Total"	2566953	100.00
+" "	"Ukrainian"	1851994	72.15
+" "	"Russian"	648653	25.27
+"m. Sevastopol"
+" "	"Total"	377153	100.00
+" "	"Ukrainian"	25489	6.76
+" "	"Russian"	341538	90.56
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" City = misto (m.)"
+

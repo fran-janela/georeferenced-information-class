@@ -1,0 +1,67 @@
+"Distribution of the population by native language, Luhanska oblast (in"
+"% to the total population) by 044 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"LUHANSK (miskrada)"	14.33	84.73
+"ANTRATSYT (miskrada)"	13.93	83.70
+"BRIANKA (miskrada)"	14.00	85.68
+"KIROVSK (miskrada)"	20.25	79.30
+"m. ALCHEVSK"	15.26	83.58
+"KRASNODON (miskrada)"	8.32	91.11
+"KRASNYI LUCH (miskrada)"	14.65	83.59
+"LYSYCHANSK (miskrada)"	35.34	62.86
+"PERVOMAISK (miskrada)"	37.94	57.07
+"ROVENKY (miskrada)"	21.24	78.30
+"m. RUBIZHNE"	38.95	60.05
+"SVERDLOVSK (miskrada)"	14.22	83.53
+"SIEVERODONETSK (miskrada)"	28.31	70.78
+"STAKHANOV (miskrada)"	14.38	83.80
+"ANTRATSYTIVSKYI RAION"	46.51	53.10
+"BILOVODSKYI RAION"	84.20	15.56
+"BILOKURAKYNSKYI RAION"	91.39	8.37
+"KRASNODONSKYI RAION"	27.26	72.32
+"KREMINSKYI RAION"	78.73	20.82
+"LUTUHYNSKYI RAION"	49.33	49.82
+"MARKIVSKYI RAION"	93.78	5.80
+"MILOVSKYI RAION"	73.84	24.12
+"NOVOAIDARSKYI RAION"	45.99	53.61
+"NOVOPSKOVSKYI RAION"	92.20	7.52
+"PEREVALSKYI RAION"	23.15	76.39
+"POPASNIANSKYI RAION"	64.08	35.60
+"SVATIVSKYI RAION"	91.84	7.55
+"SVERDLOVSKYI RAION"	56.01	41.29
+"SLOVIANOSERBSKYI RAION"	38.94	60.40
+"STANYCHNO-LUHANSKYI RAION"	14.17	85.06
+"STAROBILSKYI RAION"	79.17	20.48
+"TROITSKYI RAION"	62.76	36.89
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

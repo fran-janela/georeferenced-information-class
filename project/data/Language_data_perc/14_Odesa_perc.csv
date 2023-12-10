@@ -1,0 +1,68 @@
+"Distribution of the population by native language, Odeska oblast (in %"
+"to the total population) by 051 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"m. ODESA"	30.41	64.75
+"BILHOROD-DNISTROVSKYI (miskrada)"	41.84	54.32
+"m. IZMAIL"	18.04	74.24
+"ILLICHIVSK (miskrada)"	41.44	57.30
+"m. KOTOVSK"	70.32	26.54
+"m. TEPLODAR"	55.80	42.43
+"m. YUZHNE"	44.76	53.71
+"ANANIVSKYI RAION"	78.17	5.27
+"ARTSYZKYI RAION"	18.24	42.79
+"BALTSKYI RAION"	89.30	8.70
+"BILHOROD-DNISTROVSKYI RAION"	80.77	12.96
+"BILIAIVSKYI RAION"	80.26	16.87
+"BEREZIVSKYI RAION"	88.03	9.04
+"BOLHRADSKYI RAION"	4.87	16.32
+"VELYKOMYKHAILIVSKYI RAION"	80.36	15.36
+"IVANIVSKYI RAION"	72.56	17.56
+"IZMAILSKYI RAION"	26.34	21.56
+"KILIISKYI RAION"	36.09	44.23
+"KODYMSKYI RAION"	95.48	3.42
+"KOMINTERNIVSKYI RAION"	77.28	20.54
+"KOTOVSKYI RAION"	68.96	7.70
+"KRASNOOKNIANSKYI RAION"	86.14	6.61
+"LIUBASHIVSKYI RAION"	93.13	2.69
+"MYKOLAIVSKYI RAION"	93.39	2.58
+"OVIDIOPOLSKYI RAION"	69.64	27.76
+"ROZDILNIANSKYI RAION"	68.06	28.42
+"RENIISKYI RAION"	7.26	37.88
+"SAVRANSKYI RAION"	95.95	2.44
+"SARATSKYI RAION"	41.29	21.42
+"TARUTYNSKYI RAION"	18.79	32.93
+"TATARBUNARSKYI RAION"	72.40	7.68
+"FRUNZIVSKYI RAION"	92.09	3.22
+"SHYRIAIVSKYI RAION"	91.13	3.62
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

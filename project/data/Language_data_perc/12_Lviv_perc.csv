@@ -1,0 +1,61 @@
+"Distribution of the population by native language, Lvivska oblast (in %"
+"to the total population) by 046 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"LVIV (miskrada)"	88.75	9.72
+"BORYSLAV (miskrada)"	97.55	1.94
+"DROHOBYCH (miskrada)"	94.94	3.77
+"m. SAMBIR"	95.16	2.31
+"m. STRYI"	92.98	5.06
+"m. TRUSKAVETS"	94.22	4.99
+"CHERVONOHRAD (miskrada)"	93.34	6.24
+"BRODIVSKYI RAION"	98.27	1.56
+"BUSKYI RAION"	99.36	0.47
+"HORODOTSKYI RAION"	99.05	0.77
+"DROHOBYTSKYI RAION"	99.63	0.27
+"ZHYDACHIVSKYI RAION"	99.27	0.56
+"ZOLOCHIVSKYI RAION"	98.97	0.86
+"KAMIANKA-BUZKYI RAION"	98.82	0.98
+"MOSTYSKYI RAION"	93.21	0.42
+"ZHOVKIVSKYI RAION"	99.11	0.67
+"MYKOLAIVSKYI RAION"	98.47	1.37
+"PEREMYSHLIANSKYI RAION"	99.68	0.25
+"PUSTOMYTIVSKYI RAION"	98.94	0.68
+"RADEKHIVSKYI RAION"	99.55	0.34
+"SAMBIRSKYI RAION"	97.99	0.60
+"SKOLIVSKYI RAION"	99.41	0.47
+"SOKALSKYI RAION"	99.03	0.79
+"STAROSAMBIRSKYI RAION"	98.76	0.38
+"STRYISKYI RAION"	99.27	0.62
+"TURKIVSKYI RAION"	99.82	0.14
+"YAVORIVSKYI RAION"	98.86	1.00
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada"
+

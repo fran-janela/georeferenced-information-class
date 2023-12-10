@@ -1,0 +1,70 @@
+"Distribution of the population by native language, Dnipropetrovska"
+"oblast (in % to the total population) by 012 DISTRICTS AND CITIES OF"
+"REGIONAL IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"DNIPROPETROVSK (miskrada)"	46.50	52.46
+"m. VILNOHIRSK"	81.35	18.26
+"DNIPRODZERZHYNSK (miskrada)"	65.47	33.84
+"ZHOVTI VODY (miskrada)"	77.08	20.89
+"KRYVYI RIH (miskrada)"	71.35	27.17
+"MARHANETS (miskrada)"	72.15	26.68
+"m. NIKOPOL"	56.00	42.73
+"m. NOVOMOSKOVSK"	80.88	18.48
+"ORDZHONIKIDZE (miskrada)"	67.72	31.70
+"m. PAVLOHRAD"	59.23	39.82
+"m. PERSHOTRAVENSK"	40.21	58.89
+"m. SYNELNYKOVE"	77.95	20.23
+"TERNIVKA (miskrada)"	21.20	78.02
+"APOSTOLIVSKYI RAION"	86.64	12.57
+"VASYLKIVSKYI RAION"	94.53	4.63
+"VERKHNODNIPROVSKYI RAION"	89.98	9.20
+"DNIPROPETROVSKYI RAION"	80.70	18.27
+"KRYVORIZKYI RAION"	91.35	7.73
+"KRYNYCHANSKYI RAION"	94.03	4.71
+"MAHDALYNIVSKYI RAION"	93.91	4.75
+"MEZHIVSKYI RAION"	94.71	3.93
+"NIKOPOLSKYI RAION"	89.66	9.75
+"NOVOMOSKOVSKYI RAION"	86.20	12.93
+"PAVLOHRADSKYI RAION"	75.97	23.36
+"PETRYKIVSKYI RAION"	95.49	3.95
+"PETROPAVLIVSKYI RAION"	91.43	7.96
+"POKROVSKYI RAION"	95.25	4.15
+"PIATYKHATSKYI RAION"	92.32	6.33
+"SYNELNYKIVSKYI RAION"	89.95	8.78
+"SOLONIANSKYI RAION"	92.66	6.37
+"SOFIIVSKYI RAION"	94.59	4.31
+"TOMAKIVSKYI RAION"	92.77	6.60
+"TSARYCHANSKYI RAION"	95.44	3.93
+"SHYROKIVSKYI RAION"	92.47	6.40
+"YURIVSKYI RAION"	92.81	5.98
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

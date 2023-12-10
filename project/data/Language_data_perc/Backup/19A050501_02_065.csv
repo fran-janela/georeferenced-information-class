@@ -1,0 +1,56 @@
+"Distribution of the population by native language, Khersonska oblast"
+"(in % to the total population) by 065 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"KHERSON (miskrada)"	56.20	42.52
+"m. KAKHOVKA"	73.85	25.27
+"NOVA KAKHOVKA (miskrada)"	58.84	40.30
+"BILOZERSKYI RAION"	87.83	10.61
+"BERYSLAVSKYI RAION"	89.91	9.04
+"VELYKOOLEKSANDRIVSKYI RAION"	94.53	4.32
+"VELYKOLEPETYSKYI RAION"	90.66	8.50
+"VERKHNOROHACHYTSKYI RAION"	93.40	5.66
+"VYSOKOPILSKYI RAION"	94.25	4.93
+"HENICHESKYI RAION"	46.02	45.00
+"HOLOPRYSTANSKYI RAION"	86.56	11.86
+"HORNOSTAIVSKYI RAION"	94.00	4.73
+"IVANIVSKYI RAION"	90.15	7.05
+"KALANCHATSKYI RAION"	88.78	9.55
+"KAKHOVSKYI RAION"	88.06	11.02
+"NYZHNOSIROHOZKYI RAION"	80.30	17.45
+"NOVOVORONTSOVSKYI RAION"	95.60	3.76
+"NOVOTROITSKYI RAION"	87.15	10.67
+"SKADOVSKYI RAION"	80.56	17.72
+"TSIURUPYNSKYI RAION"	82.12	16.74
+"CHAPLYNSKYI RAION"	83.78	8.93
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

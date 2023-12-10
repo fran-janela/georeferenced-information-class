@@ -1,0 +1,70 @@
+"Distribution of the population by native language, Kyivska oblast (in %",,
+to the total population) by 032 DISTRICTS AND CITIES OF REGIONAL,,
+"IMPORTANCE, Year and Indicated as a native language",,
+,,
+ ,2001(05.12), 
+ ,Ukrainian,Russian
+m. BILA TSERKVA,86.61,12.31
+m. BEREZAN,92.12,7.45
+BORYSPIL (miskrada),88.39,11.08
+m. BROVARY,86.44,12.89
+m. VASYLKIV,87.29,12.19
+IRPIN (miskrada),87.79,11.63
+m. PEREIASLAV-KHMELNYTSKYI,95.89,3.61
+m. FASTIV,90.83,8.61
+m. RZHYSHCHIV,95.14,4.27
+m. SLAVUTYCH,55.42,42.58
+PRYPIAT (miskrada),-,-
+BARYSHIVSKYI RAION,96.45,3.02
+BILOTSERKIVSKYI RAION,95.65,3.95
+BOHUSLAVSKYI RAION,97.60,2.22
+BORYSPILSKYI RAION,95.67,3.82
+BORODIANSKYI RAION,94.67,4.78
+BROVARSKYI RAION,96.87,2.80
+VASYLKIVSKYI RAION,95.35,4.15
+VOLODARSKYI RAION,97.84,1.90
+VYSHHORODSKYI RAION,90.28,9.25
+ZGHURIVSKYI RAION,97.02,2.30
+IVANKIVSKYI RAION,96.47,3.12
+KAHARLYTSKYI RAION,96.97,2.65
+KYIEVO-SVIATOSHYNSKYI RAION,91.40,8.06
+MAKARIVSKYI RAION,95.69,3.83
+MYRONIVSKYI RAION,96.68,2.95
+OBUKHIVSKYI RAION,87.29,12.19
+PEREIASLAV-KHMELNYTSKYI RAION,97.14,2.56
+POLISKYI RAION,97.23,2.18
+ROKYTNIANSKYI RAION,97.98,1.80
+SKVYRSKYI RAION,97.39,1.93
+STAVYSHCHENSKYI RAION,98.31,1.39
+TARASHCHANSKYI RAION,97.94,1.68
+TETIIVSKYI RAION,98.24,1.52
+FASTIVSKYI RAION,96.15,3.28
+YAHOTYNSKYI RAION,96.08,3.46
+,,
+It is possible to select certain territorial aggregations in the ,,
+window of the table creation by means of the pop-down menu from the ,,
+variable name Region. The first territorial aggregation is named as ,,
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain ",,
+districts.,,
+,,
+ ,,
+Conventional signs: ,,
+hyphen (-) - phenomenon was not observed ,,
+zero (0.00) - the phenomenon took place but in lower values than can ,,
+be expressed with used digital number orders ,,
+ ,,
+Extra notes: ,,
+The list of settlements of administrative-territorial division ,,
+(variable Region) is presented in transliteration.  ,,
+ ,,
+The English version of some transliterated Ukrainian words is ,,
+presented below: ,,
+ Region = rehion / oblast  ,,
+ District = raion  ,,
+ UTS (urban type settlements) = SMT (selyshche miskoho typu)  ,,
+ City = misto (m.)  ,,
+ Council (municipality) = rada  ,,
+ City council = miskrada  ,,
+ Village = selo (s.)  ,,
+ Village council = silrada  ,,
+ Hamlet = selyshche (s-shche),,

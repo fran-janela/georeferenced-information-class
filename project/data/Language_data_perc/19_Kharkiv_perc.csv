@@ -1,0 +1,69 @@
+"Distribution of the population by native language, Kharkivska oblast"
+"(in % to the total population) by 063 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"KHARKIV (miskrada)"	31.77	65.86
+"m. IZIUM"	74.22	23.77
+"KUPIANSK (miskrada)"	69.28	25.58
+"LOZOVA (miskrada)"	77.21	17.56
+"LIUBOTYN (miskrada)"	86.10	12.59
+"PERVOMAISKYI (miskrada)"	42.83	52.65
+"CHUHUIV (miskrada)"	29.64	69.52
+"BALAKLIISKYI RAION"	70.38	28.91
+"BARVINKIVSKYI RAION"	91.24	7.75
+"BLYZNIUKIVSKYI RAION"	92.10	6.74
+"BOHODUKHIVSKYI RAION"	93.65	5.55
+"BORIVSKYI RAION"	91.52	8.14
+"VALKIVSKYI RAION"	94.23	5.23
+"VELYKOBURLUTSKYI RAION"	71.82	27.32
+"VOVCHANSKYI RAION"	85.72	13.16
+"ZMIIVSKYI RAION"	76.38	22.49
+"DVORICHANSKYI RAION"	84.17	15.02
+"DERHACHIVSKYI RAION"	78.08	21.26
+"ZACHEPYLIVSKYI RAION"	83.95	14.89
+"ZOLOCHIVSKYI RAION"	85.66	13.34
+"IZIUMSKYI RAION"	91.67	7.47
+"KEHYCHIVSKYI RAION"	92.05	5.45
+"KOLOMATSKYI RAION"	94.01	4.46
+"KRASNOHRADSKYI RAION"	77.16	21.90
+"KRASNOKUTSKYI RAION"	94.92	4.35
+"KUPIANSKYI RAION"	88.94	10.38
+"LOZIVSKYI RAION"	88.51	10.74
+"NOVOVODOLAZKYI RAION"	77.69	21.52
+"PERVOMAISKYI RAION"	58.16	41.17
+"PECHENIZKYI RAION"	92.75	6.87
+"SAKHNOVSHCHYNSKYI RAION"	94.40	4.54
+"KHARKIVSKYI RAION"	63.88	35.16
+"CHUHUIVSKYI RAION"	45.23	53.87
+"SHEVCHENKIVSKYI RAION"	91.23	7.75
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

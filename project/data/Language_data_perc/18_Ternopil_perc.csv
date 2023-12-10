@@ -1,0 +1,52 @@
+"Distribution of the population by native language, Ternopilska oblast"
+"(in % to the total population) by 061 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"m. TERNOPIL"	94.80	3.37
+"BEREZHANSKYI RAION"	99.26	0.64
+"BORSHCHIVSKYI RAION"	99.15	0.65
+"BUCHATSKYI RAION"	99.62	0.27
+"HUSIATYNSKYI RAION"	99.39	0.44
+"ZALISHCHYTSKYI RAION"	99.47	0.45
+"ZBARAZKYI RAION"	98.32	1.55
+"ZBORIVSKYI RAION"	99.68	0.23
+"KOZIVSKYI RAION"	99.64	0.28
+"KREMENETSKYI RAION"	98.69	1.11
+"LANOVETSKYI RAION"	99.16	0.66
+"MONASTYRYSKYI RAION"	99.62	0.30
+"PIDVOLOCHYSKYI RAION"	99.48	0.36
+"PIDHAIETSKYI RAION"	99.83	0.13
+"TEREBOVLIANSKYI RAION"	99.40	0.50
+"TERNOPILSKYI RAION"	99.53	0.36
+"CHORTKIVSKYI RAION"	98.27	1.53
+"SHUMSKYI RAION"	99.44	0.47
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada"
+

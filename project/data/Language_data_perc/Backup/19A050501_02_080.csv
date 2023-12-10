@@ -1,0 +1,33 @@
+"Distribution of the population by native language, m. Kyiv (in % to the"
+"total population) by Region, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"m. KYIV"	72.15	25.27
+"HOLOSIIVSKYI raion, m. KYIV"	75.93	22.17
+"DARNYTSKYI raion, m. KYIV"	77.91	20.53
+"DESNIANSKYI raion, m. KYIV"	74.74	23.42
+"DNIPROVSKYI raion, m. KYIV"	71.90	27.10
+"OBOLONSKYI raion, m. KYIV"	70.31	23.60
+"PECHERSKYI raion, m. KYIV"	60.23	30.67
+"PODILSKYI raion, m. KYIV"	73.94	25.03
+"SVIATOSHYNSKYI raion, m. KYIV"	77.16	21.51
+"SOLOMIANSKYI raion, m. KYIV"	67.51	30.47
+"SHEVCHENKIVSKYI raion, m. KYIV"	64.65	32.14
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" City = misto (m.)"
+

@@ -1,0 +1,61 @@
+"Distribution of the population by native language, Zaporizka oblast (in"
+"% to the total population) by 023 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"ZAPORIZHZHIA (miskrada)"	41.70	56.77
+"BERDIANSK (miskrada)"	24.18	75.05
+"m. MELITOPOL"	20.42	78.14
+"m. TOKMAK"	70.25	29.35
+"m. ENERHODAR"	37.81	61.69
+"YAKYMIVSKYI RAION"	42.52	55.11
+"BERDIANSKYI RAION"	68.52	27.75
+"VASYLIVSKYI RAION"	70.78	28.41
+"VELYKOBILOZERSKYI RAION"	93.72	5.81
+"VESELIVSKYI RAION"	70.52	28.15
+"VILNIANSKYI RAION"	84.72	14.70
+"HULIAIPILSKYI RAION"	94.13	5.22
+"ZAPORIZKYI RAION"	83.85	15.43
+"KAMIANSKO-DNIPROVSKYI RAION"	44.48	54.68
+"KUIBYSHEVSKYI RAION"	89.12	10.15
+"MELITOPOLSKYI RAION"	39.35	58.24
+"MYKHAILIVSKYI RAION"	67.08	31.82
+"NOVOMYKOLAIVSKYI RAION"	93.78	5.76
+"ORIKHIVSKYI RAION"	91.37	8.17
+"POLOHIVSKYI RAION"	92.87	6.54
+"PRYAZOVSKYI RAION"	37.36	53.31
+"PRYMORSKYI RAION"	32.47	55.18
+"ROZIVSKYI RAION"	82.43	16.95
+"TOKMATSKYI RAION"	79.93	19.47
+"CHERNIHIVSKYI RAION"	93.54	5.92
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)  "
+" Part = CHASTYNA"
+

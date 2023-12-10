@@ -1,0 +1,60 @@
+"Distribution of the population by native language, Kirovohradska oblast"
+"(in % to the total population) by 035 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"KIROVOHRAD (miskrada)"	79.72	19.64
+"OLEKSANDRIIA (miskrada)"	87.00	12.47
+"ZNAMIANKA (miskrada)"	79.10	19.85
+"SVITLOVODSK (miskrada)"	79.49	20.03
+"OLEKSANDRIISKYI RAION"	95.03	3.79
+"OLEKSANDRIVSKYI RAION"	96.83	2.32
+"BOBRYNETSKYI RAION"	96.16	2.27
+"HAIVORONSKYI RAION"	96.54	2.90
+"HOLOVANIVSKYI RAION"	95.64	3.71
+"DOBROVELYCHKIVSKYI RAION"	95.26	3.16
+"DOLYNSKYI RAION"	94.42	4.56
+"ZNAMIANSKYI RAION"	93.32	5.10
+"KIROVOHRADSKYI RAION"	87.85	10.42
+"KOMPANIIVSKYI RAION"	95.45	2.53
+"MALOVYSKIVSKYI RAION"	89.34	9.56
+"NOVHORODKIVSKYI RAION"	97.05	2.07
+"NOVOARKHANHELSKYI RAION"	96.95	1.87
+"NOVOMYRHORODSKYI RAION"	95.15	2.48
+"NOVOUKRAINSKYI RAION"	95.32	2.67
+"VILSHANSKYI RAION"	92.70	2.54
+"ONUFRIIVSKYI RAION"	86.27	12.88
+"PETRIVSKYI RAION"	93.58	5.28
+"SVITLOVODSKYI RAION"	85.92	12.93
+"ULIANOVSKYI RAION"	97.06	1.72
+"USTYNIVSKYI RAION"	95.61	2.32
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+

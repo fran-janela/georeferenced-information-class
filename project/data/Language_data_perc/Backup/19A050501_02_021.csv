@@ -1,0 +1,51 @@
+"Distribution of the population by native language, Zakarpatska oblast"
+"(in % to the total population) by 021 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"m. UZHHOROD"	77.55	12.40
+"BEREHOVE (miskrada)"	38.43	6.29
+"m. MUKACHEVE"	77.63	10.72
+"KHUST (miskrada)"	90.98	3.83
+"BEREHIVSKYI RAION"	18.83	0.75
+"VELYKOBEREZNIANSKYI RAION"	98.98	0.63
+"VYNOHRADIVSKYI RAION"	71.98	1.28
+"VOLOVETSKYI RAION"	99.14	0.65
+"IRSHAVSKYI RAION"	99.01	0.65
+"MIZHHIRSKYI RAION"	99.27	0.45
+"MUKACHIVSKYI RAION"	84.22	0.72
+"PERECHYNSKYI RAION"	96.60	1.28
+"RAKHIVSKYI RAION"	84.63	0.89
+"SVALIAVSKYI RAION"	97.28	1.58
+"TIACHIVSKYI RAION"	83.52	1.06
+"UZHHORODSKYI RAION"	58.89	2.47
+"KHUSTSKYI RAION"	95.21	0.84
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada"
+

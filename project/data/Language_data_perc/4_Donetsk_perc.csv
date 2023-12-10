@@ -1,0 +1,81 @@
+"Distribution of the population by native language, Donetska oblast (in"
+"% to the total population) by 014 DISTRICTS AND CITIES OF REGIONAL"
+"IMPORTANCE, Year and Indicated as a native language"
+
+" "	"2001(05.12)"	" "
+" "	"Ukrainian"	"Russian"
+"DONETSK (miskrada)"	11.14	87.83
+"m. AVDIIVKA"	12.51	87.17
+"ARTEMIVSK (miskrada)"	35.22	63.62
+"m. VUHLEDAR"	28.18	70.80
+"HORLIVKA (miskrada)"	15.15	83.89
+"DEBALTSEVE (miskrada)"	21.54	77.33
+"DZERZHYNSK (miskrada)"	21.29	78.23
+"DYMYTROV (miskrada)"	25.94	71.85
+"DOBROPILLIA (miskrada)"	39.28	60.20
+"DOKUCHAIVSK (miskrada)"	27.95	71.52
+"DRUZHKIVKA (miskrada)"	34.95	63.79
+"YENAKIIEVE (miskrada)"	13.56	85.72
+"ZHDANIVKA (miskrada)"	11.66	87.41
+"MARIUPOL (miskrada)"	9.87	89.53
+"m. KIROVSKE"	16.90	82.39
+"m. KOSTIANTYNIVKA"	20.98	78.06
+"KRAMATORSK (miskrada)"	35.64	63.27
+"KRASNOARMIISK (miskrada)"	37.07	62.16
+"KRASNYI LYMAN (miskrada)"	70.35	29.13
+"MAKIIVKA (miskrada)"	12.42	86.58
+"m. NOVOHRODIVKA"	29.84	69.20
+"SELYDOVE (miskrada)"	26.03	72.98
+"SLAVIANSK (miskrada)"	43.77	54.61
+"SNIZHNE (miskrada)"	15.25	83.61
+"TOREZ (miskrada)"	15.68	83.38
+"KHARTSYZK (miskrada)"	16.08	82.97
+"SHAKHTARSK (miskrada)"	22.46	76.34
+"m. YASYNUVATA"	27.15	72.44
+"OLEKSANDRIVSKYI RAION"	89.51	9.98
+"AMVROSIIVSKYI RAION"	43.46	55.77
+"ARTEMIVSKYI RAION"	72.22	26.22
+"VELYKONOVOSILKIVSKYI RAION"	50.26	47.43
+"VOLNOVASKYI RAION"	58.45	40.36
+"VOLODARSKYI RAION"	31.14	67.40
+"DOBROPILSKYI RAION"	88.61	10.85
+"KOSTIANTYNIVSKYI RAION"	69.84	29.41
+"KRASNOARMIISKYI RAION"	74.06	25.53
+"KRASNOLYMANSKYI RAION"	82.18	16.96
+"MARINSKYI RAION"	56.52	43.02
+"NOVOAZOVSKYI RAION"	40.22	59.33
+"PERSHOTRAVNEVYI RAION"	22.35	76.63
+"SLOVIANSKYI RAION"	83.19	15.55
+"STAROBESHIVSKYI RAION"	17.06	81.78
+"TELMANIVSKYI RAION"	39.87	57.17
+"SHAKHTARSKYI RAION"	53.36	46.25
+"YASYNUVATSKYI RAION"	40.96	58.21
+
+"It is possible to select certain territorial aggregations in the "
+"window of the table creation by means of the pop-down menu from the "
+"variable name Region. The first territorial aggregation is named as "
+"DISTRICTS AND CITIES OF REGIONAL IMPORTANCE, the others - as certain "
+"districts."
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"zero (0.00) - the phenomenon took place but in lower values than can "
+"be expressed with used digital number orders "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" District = raion  "
+" UTS (urban type settlements) = SMT (selyshche miskoho typu)  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada  "
+" Village = selo (s.)  "
+" Village council = silrada  "
+" Hamlet = selyshche (s-shche)"
+
