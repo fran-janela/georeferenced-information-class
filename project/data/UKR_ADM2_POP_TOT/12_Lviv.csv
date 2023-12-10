@@ -1,0 +1,55 @@
+"Distribution of the population by nationality and native language,"
+"Lvivska oblast (persons) by Nationality, Region, Year and Indicated as"
+"a native language"
+
+" "	" "	"2001(05.12)"
+" "	" "	"Whole population"
+"Whole population"
+" "	"LVIV (miskrada)"	749768
+" "	"BORYSLAV (miskrada)"	40699
+" "	"DROHOBYCH (miskrada)"	97683
+" "	"CHERVONOHRAD (miskrada)"	85034
+" "	"m. SAMBIR"	36218
+" "	"m. STRYI"	62051
+" "	"m. TRUSKAVETS"	22489
+" "	"BRODIVSKYI RAION"	63850
+" "	"BUSKYI RAION"	50871
+" "	"HORODOTSKYI RAION"	73974
+" "	"DROHOBYTSKYI RAION"	76338
+" "	"ZHYDACHIVSKYI RAION"	80812
+" "	"ZHOVKIVSKYI RAION"	109173
+" "	"ZOLOCHIVSKYI RAION"	74686
+" "	"KAMIANKA-BUZKYI RAION"	61832
+" "	"MYKOLAIVSKYI RAION"	94506
+" "	"MOSTYSKYI RAION"	61919
+" "	"PEREMYSHLIANSKYI RAION"	47763
+" "	"PUSTOMYTIVSKYI RAION"	112009
+" "	"RADEKHIVSKYI RAION"	52439
+" "	"SAMBIRSKYI RAION"	74598
+" "	"SKOLIVSKYI RAION"	50310
+" "	"SOKALSKYI RAION"	98123
+" "	"STAROSAMBIRSKYI RAION"	82135
+" "	"STRYISKYI RAION"	68449
+" "	"TURKIVSKYI RAION"	54906
+" "	"YAVORIVSKYI RAION"	123321
+
+" "
+"Conventional signs: "
+"hyphen (-) - phenomenon was not observed "
+"ellipsis (...) - data are not publicly available relating to of the "
+"Law of Ukraine ``On State Statistics`` on confidentiality of "
+"information "
+"Symbol (x) - it doesn't make sense to fill out the rubric according "
+"to specific features of the table "
+" "
+"Extra notes: "
+"The list of settlements of administrative-territorial division "
+"(variable Region) is presented in transliteration.  "
+" "
+"The English version of some transliterated Ukrainian words is "
+"presented below: "
+" Region = rehion / oblast  "
+" City = misto (m.)  "
+" Council (municipality) = rada  "
+" City council = miskrada"
+
